@@ -1,2 +1,2 @@
-analytics.dat
-client_secrets.json
+*.dat
+client_secrets*
